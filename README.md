@@ -1,4 +1,4 @@
-# Reproduction-of-Results-from-the-Research-Article-A-Compact-Broadband-Cross-Shaped..Antenna..-
+# Reproduction of Published Results: Cross-Shaped Circularly Polarized Planar Monopole Antenna
 Course: Advanced Antennas – Assignment 1
 
 
